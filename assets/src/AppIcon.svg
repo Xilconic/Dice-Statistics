@@ -35,12 +35,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="53.219799"
-     inkscape:cy="116.05015"
+     inkscape:zoom="1"
+     inkscape:cx="-104.49494"
+     inkscape:cy="46.331999"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
-     showgrid="true"
+     inkscape:current-layer="layer2"
+     showgrid="false"
      units="px"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -79,18 +79,6 @@
        id="guide4278"
        inkscape:label=""
        inkscape:color="rgb(255,0,0)" />
-    <sodipodi:guide
-       position="20,15"
-       orientation="1,0"
-       id="guide4282"
-       inkscape:label=""
-       inkscape:color="rgb(0,255,0)" />
-    <sodipodi:guide
-       position="-15,20"
-       orientation="0,1"
-       id="guide4284"
-       inkscape:label=""
-       inkscape:color="rgb(0,255,0)" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -141,49 +129,49 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <rect
-       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.95525765"
+       style="fill:#9fee00;fill-opacity:1;stroke:#9fee00;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4173"
        width="15.032119"
        height="62.161407"
        x="76.482681"
        y="32.474216" />
     <rect
-       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.95525765"
+       style="fill:#9fee00;fill-opacity:1;stroke:#9fee00;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4173-5"
        width="15.032119"
        height="62.161407"
        x="100.48521"
        y="32.474216" />
     <rect
-       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.89479429"
+       style="fill:#9fee00;fill-opacity:1;stroke:#9fee00;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4173-5-9"
        width="15.042562"
        height="54.503525"
        x="52.449921"
        y="39.855099" />
     <rect
-       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.89479429"
+       style="fill:#9fee00;fill-opacity:1;stroke:#9fee00;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4173-5-0"
        width="15.042562"
        height="54.503525"
        x="124.50752"
        y="40.456776" />
     <rect
-       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.67458254"
+       style="fill:#9fee00;fill-opacity:1;stroke:#9fee00;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4173-5-0-9"
        width="15.063362"
        height="30.934868"
        x="28.33729"
        y="63.942112" />
     <rect
-       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.67458254"
+       style="fill:#9fee00;fill-opacity:1;stroke:#9fee00;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4173-5-0-9-4"
        width="15.063362"
        height="30.934868"
        x="148.59933"
        y="64.332657" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.34739065;stroke-opacity:1"
+       style="fill:#009999;fill-opacity:1;stroke:#009999;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4252"
        width="174.65262"
        height="6.6526093"
@@ -193,14 +181,15 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Die 4">
+     inkscape:label="Die 4"
+     sodipodi:insensitive="true">
     <rect
-       style="fill:#ff0000;stroke:#ff0000;stroke-width:0;fill-opacity:1;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:3.61085939;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4270"
-       width="38.095242"
-       height="38.095238"
-       x="31.952381"
-       y="113.95238" />
+       width="34.389141"
+       height="34.389137"
+       x="33.805431"
+       y="115.80544" />
     <circle
        style="fill:#ffffff;stroke:#ffffff;stroke-width:0.53333336"
        id="path4290"
@@ -229,14 +218,15 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Die 3">
+     inkscape:label="Die 3"
+     sodipodi:insensitive="true">
     <rect
-       style="fill:#ff0000;stroke:#ff0000;stroke-width:0;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:3.61085987;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4270-8"
-       width="38.095242"
-       height="38.095238"
-       x="116.45238"
-       y="112.95238" />
+       width="34.389145"
+       height="34.389141"
+       x="117.80543"
+       y="115.80543" />
     <circle
        style="fill:#ffffff;stroke:#ffffff;stroke-width:0.53333336"
        id="path4290-7"
