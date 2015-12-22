@@ -27,6 +27,141 @@
        inkscape:vp_z="195 : 135 : 1"
        inkscape:persp3d-origin="96 : 64 : 1"
        id="perspective4143" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Blur"
+       id="filter5549">
+      <feGaussianBlur
+         stdDeviation="4 4"
+         result="blur"
+         id="feGaussianBlur5551" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Blur"
+       id="filter5563">
+      <feGaussianBlur
+         stdDeviation="4 4"
+         result="blur"
+         id="feGaussianBlur5565" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7254"
+       x="-0.024914173"
+       width="1.0498283"
+       y="-0.65407801"
+       height="2.308156">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.8130523"
+         id="feGaussianBlur7256" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7278"
+       x="-0.27482847"
+       width="1.5496569"
+       y="-0.13382442"
+       height="1.2676488">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.7249336"
+         id="feGaussianBlur7280" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7290"
+       x="-0.27739725"
+       width="1.5547945"
+       y="-0.076559547"
+       height="1.1531191">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.7386522"
+         id="feGaussianBlur7292" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7294"
+       x="-0.27739725"
+       width="1.5547945"
+       y="-0.076559547"
+       height="1.1531191">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.7386522"
+         id="feGaussianBlur7296" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7298"
+       x="-0.27482847"
+       width="1.5496569"
+       y="-0.13382442"
+       height="1.2676488">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.7249336"
+         id="feGaussianBlur7300" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7318"
+       x="-0.30811435"
+       width="1.6162287"
+       y="-0.074509439"
+       height="1.1490189">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.9298382"
+         id="feGaussianBlur7320" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7338"
+       x="-0.30811435"
+       width="1.6162287"
+       y="-0.074509439"
+       height="1.1490189">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.9298382"
+         id="feGaussianBlur7340" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7370"
+       x="-0.17999999"
+       width="1.36"
+       y="-0.18000001"
+       height="1.36">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.5791854"
+         id="feGaussianBlur7372" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7384"
+       x="-0.17999999"
+       width="1.36"
+       y="-0.18000001"
+       height="1.36">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.5791857"
+         id="feGaussianBlur7386" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -35,11 +170,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-104.49494"
-     inkscape:cy="46.331999"
+     inkscape:zoom="4"
+     inkscape:cx="147.29929"
+     inkscape:cy="88.426443"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g7374"
      showgrid="false"
      units="px"
      showguides="false"
@@ -91,6 +226,26 @@
         <dc:title>Dice Statistics Android-app Icon</dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Xilconic</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Creative Commons - Attribution</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Xilconic</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Xilconic</dc:title>
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by/3.0/">
@@ -121,6 +276,62 @@
        height="119.81337"
        x="12.093316"
        y="896.45544" />
+  </g>
+  <g
+     style="display:inline;opacity:0.2"
+     inkscape:label="Distribution Drop Shadow"
+     id="g5754"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <rect
+       y="36.206982"
+       x="76.482681"
+       height="62.161407"
+       width="15.032119"
+       id="rect5756"
+       style="fill:#191919;fill-opacity:1;stroke:#191919;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7318)" />
+    <rect
+       y="36.206982"
+       x="100.48521"
+       height="62.161407"
+       width="15.032119"
+       id="rect5758"
+       style="fill:#191919;fill-opacity:1;stroke:#191919;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7338)" />
+    <rect
+       y="44.323711"
+       x="52.449921"
+       height="54.503525"
+       width="15.042562"
+       id="rect5760"
+       style="fill:#191919;fill-opacity:1;stroke:#191919;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7290)" />
+    <rect
+       y="44.323711"
+       x="124.50752"
+       height="54.503525"
+       width="15.042562"
+       id="rect5762"
+       style="fill:#191919;fill-opacity:1;stroke:#191919;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7294)" />
+    <rect
+       y="67.925293"
+       x="28.33729"
+       height="30.934868"
+       width="15.063362"
+       id="rect5764"
+       style="fill:#191919;fill-opacity:1;stroke:#191919;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7278)" />
+    <rect
+       y="67.925293"
+       x="148.59933"
+       height="30.934868"
+       width="15.063362"
+       id="rect5766"
+       style="fill:#191919;fill-opacity:1;stroke:#191919;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7298)" />
+    <rect
+       y="104.99606"
+       x="8.6736956"
+       height="6.6526093"
+       width="174.65262"
+       id="rect5768"
+       style="fill:#191919;fill-opacity:1;stroke:#191919;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7254)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -179,10 +390,25 @@
        y="100.6737" />
   </g>
   <g
+     style="display:inline;opacity:0.2"
+     inkscape:label="Die 4 Drop Shadow"
+     id="g7342"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <rect
+       y="121.42081"
+       x="33.805431"
+       height="34.389137"
+       width="34.389141"
+       id="rect7344"
+       style="fill:#191919;fill-opacity:1;stroke:#191919;stroke-width:3.61085939;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7370)" />
+  </g>
+  <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Die 4"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <rect
        style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:3.61085939;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4270"
@@ -216,10 +442,25 @@
        r="3.7333333" />
   </g>
   <g
+     style="display:inline;opacity:0.2"
+     inkscape:label="Die 3 Drop Shadow"
+     id="g7374"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <rect
+       y="121.42081"
+       x="117.80543"
+       height="34.389141"
+       width="34.389145"
+       id="rect7376"
+       style="fill:#191919;fill-opacity:1;stroke:#191919;stroke-width:3.61085987;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7384)" />
+  </g>
+  <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Die 3"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <rect
        style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:3.61085987;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4270-8"
