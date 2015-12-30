@@ -6,6 +6,7 @@ package com.xilconic.gaming.dice;
 public interface Die {
     /**
      * Indicates if this die has been rolled or not.
+     *
      * @return true if this die has been rolled; false otherwise.
      */
     boolean isRolled();
@@ -17,6 +18,7 @@ public interface Die {
 
     /**
      * Gets the integer representing the rolled result.
+     *
      * @return An integer.
      * @throws IllegalStateException When this method is called when {@link #isRolled} returns false.
      */

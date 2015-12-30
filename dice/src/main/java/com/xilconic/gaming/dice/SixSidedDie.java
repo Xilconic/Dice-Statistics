@@ -18,7 +18,7 @@ public class SixSidedDie implements Die {
 
     @Override
     public int getRolledValue() throws IllegalStateException {
-        if (!isRolled){
+        if (!isRolled) {
             throw new IllegalStateException("Method 'roll()' should have been called before calling 'getRolledValue()'.");
         }
         return 0;
